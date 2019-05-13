@@ -1,6 +1,5 @@
 # Sharpening an image with python
 
-
 # for run from terminal
 # python img_conv.py --image pokemon.png
 
