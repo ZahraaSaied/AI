@@ -1,0 +1,1 @@
+Build a classifier to detect fake/real news based on their titles and some of their contents using TF-IDF Vectorizer and Naive-Bayes classifier
